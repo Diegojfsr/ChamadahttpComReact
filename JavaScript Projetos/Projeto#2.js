@@ -1,6 +1,7 @@
 
 /*
 Teste de velocidade de digitação
+
 O teste de velocidade de digitação é uma aplicação básica que utiliza os conceitos de HTML, CSS e JavaScript. 
 Através dessa programação, desenvolverá uma ferramenta que mede a velocidade e precisão de digitação do usuário.
 
