@@ -4,13 +4,21 @@ Desafio: Encontre a palavra mais longa
 
 Dado um texto, escreva uma função que encontre a palavra mais longa presente nele.
 */
-function fibonacci(n) {
-    if (typeof n !== 'number' || n <= 0 || Math.floor(n) !== n) {
-        throw new Error('O argumento fornecido deve ser um número inteiro positivo');
+
+function encontrarPalavraMaisLonga(texto) {
+    // Remove pontuação e quebra o texto em palavras
+    const palavras = texto.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, "").split(" ");
+    let palavraMaisLonga = "";
+    // Itera sobre as palavras para encontrar a mais longa
+    for (let i = 0; i < palavras.length; i++) {
+      const palavraAtual = palavras[i];
+      if (palavraAtual.length > palavraMaisLonga.length) {
+        palavraMaisLonga = palavraAtual;
+      }
     }
-    let fib = [0, 1]; // Os primeiros dois números na sequência de Fibonacci
-    for(let i = 2; i <= n; i++) {
-        fib[i] = fib[i - 1] + fib[i - 2]; // Calcula o próximo número na sequência
-    }
-    return fib[n - 1]; // Retorna o n-ésimo número
-}
+    return palavraMaisLonga;
+  }
+  // Exemplo de uso
+  const texto = "O céu é azul e o sol brilha intensamente";
+  const palavraMaisLonga = encontrarPalavraMaisLonga(texto);
+  console.log(palavraMaisLonga); // Saída: "intensamente"
