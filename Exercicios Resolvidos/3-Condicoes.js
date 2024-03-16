@@ -8,9 +8,9 @@ let nomeUser = "Diego";
 let idadeUser = 29;
 
 if (idadeUser >= 18){
-    console.log(nomeUser + " é MAIOR de idade.");
+    console.log(nomeUser + " é MAIOR de Idade.");
 }else{
-    console.log(nomeUser + " é MENOR de idade.");
+    console.log(nomeUser + " é MENOR de Idade.");
 }
 
 
