@@ -12,7 +12,3 @@ if (idadeUser >= 18){
 }else{
     console.log(nomeUser + " é MENOR de Idade.");
 }
-
-
-
-
