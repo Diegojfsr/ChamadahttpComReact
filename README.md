@@ -6,17 +6,16 @@
 Curso de JavaScript Matheus Battisti - Hora de Codar.
 
 <h2 dir="auto"> 📝 Lista de Exercícios </h2>
-☑️ #1 - Variáveis e tipos de dados. <a href="https://"> Acessar➡️ </a> <br>
-☑️ #2 - Operadores. <a href="https://"> Acessar➡️ </a> <br>
-☑️ #3 - Condições. <a href="https://"> Acessar➡️ </a> <br>
-☑️ #4 - Loops. <a href="https://"> Acessar➡️ </a> <br>
-☑️ #5 - Funções. <a href="https://"> Acessar➡️ </a> <br>
-☑️ #6 - Arrays. <a href="https://"> Acessar➡️ </a> <br>
-☑️ #7 - Objetos. <a href="https://"> Acessar➡️ </a> <br>
-☑️ #8 - Eventos DOM. <a href="https://"> Acessar➡️ </a> <br>
-☑️ #9 - Manipulação de Strings. <a href="https://"> Acessar➡️ </a> <br>
-☑️ #10 - Promises e Fetch API. <a href="https://"> Acessar➡️ </a> <br>
-
+➡️ <a href="href="https://"> #1 - Variáveis e tipos de dados. </a> <br>
+➡️ <a href="href="https://"> #2 - Operadores. </a> <br>
+➡️ <a href="href="https://"> #3 - Condições. </a> <br>
+➡️ <a href="href="https://"> #4 - Loops. </a> <br>
+➡️ <a href="href="https://"> #5 - Funções. </a> <br>
+➡️ <a href="href="https://"> #6 - Arrays. </a> <br>
+➡️ <a href="href="https://"> #7 - Objetos. </a> <br>
+➡️ <a href="href="https://"> #8 - Eventos DOM. </a> <br>
+➡️ <a href="href="https://"> #9 - Manipulação de Strings. </a> <br>
+➡️ <a href="href="https://"> #10 - Promises e Fetch API. </a> <br>
 
 <h2 dir="auto"> ⚠️ Especificação e requisitos</h2>
  <li> Noções de JavaScript. </li>
