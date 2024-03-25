@@ -9,21 +9,21 @@ Curso de JavaScript Matheus Battisti - Hora de Codar.
 
 <!--1. [Exercícios para Iniciantes](#iniciantes)-->
    1. Exercícios para Iniciantes
-        - <a href="https://"> Variáveis e tipos de dados </a>
-        - <a href="https://"> Operadores </a>
-        - <a href="https://"> Condições </a>
-        - <a href="https://"> Loops </a>
-        - <a href="https://"> Funções </a>
-        - <a href="https://"> Arrays </a>
-        - <a href="https://"> Objetos </a>
-        - <a href="https://"> Eventos DOM </a>
-        - <a href="https://"> Manipulação de Strings </a>
-        - <a href="https://"> Promises e Fetch API </a>
+        - <a href="https://github.com/Diegojfsr/Exercicios_JavaScript_HoraDeCodar/blob/main/Exercicicos/JavaScript%20Iniciante/Exemplo%231.js"> Variáveis e tipos de dados </a>
+        - <a href="https://github.com/Diegojfsr/Exercicios_JavaScript_HoraDeCodar/blob/main/Exercicicos/JavaScript%20Iniciante/Exemplo%232.js"> Operadores </a>
+        - <a href="https://github.com/Diegojfsr/Exercicios_JavaScript_HoraDeCodar/blob/main/Exercicicos/JavaScript%20Iniciante/Exemplo%233.js"> Condições </a>
+        - <a href="https://github.com/Diegojfsr/Exercicios_JavaScript_HoraDeCodar/blob/main/Exercicicos/JavaScript%20Iniciante/Exemplo%234.js"> Loops </a>
+        - <a href="https://github.com/Diegojfsr/Exercicios_JavaScript_HoraDeCodar/blob/main/Exercicicos/JavaScript%20Iniciante/Exemplo%235.js"> Funções </a>
+        - <a href="https://github.com/Diegojfsr/Exercicios_JavaScript_HoraDeCodar/blob/main/Exercicicos/JavaScript%20Iniciante/Exemplo%236.js"> Arrays </a>
+        - <a href="https://github.com/Diegojfsr/Exercicios_JavaScript_HoraDeCodar/blob/main/Exercicicos/JavaScript%20Iniciante/Exemplo%237.js"> Objetos </a>
+        - <a href="https://github.com/Diegojfsr/Exercicios_JavaScript_HoraDeCodar/blob/main/Exercicicos/JavaScript%20Iniciante/Exemplo%238.js"> Eventos DOM </a>
+        - <a href="https://github.com/Diegojfsr/Exercicios_JavaScript_HoraDeCodar/blob/main/Exercicicos/JavaScript%20Iniciante/Exemplo%239.js"> Manipulação de Strings </a>
+        - <a href="https://github.com/Diegojfsr/Exercicios_JavaScript_HoraDeCodar/blob/main/Exercicicos/JavaScript%20Iniciante/Exemplo%2310.js"> Promises e Fetch API </a>
 
 <!--2. [Exercícios Avançados](#avancados)-->
 2. Exercícios Avançados
-    - <a href="https://"> Fibonacci </a>
-    - <a href="https://"> Palavra mais Longa </a>
+    - <a href="https://github.com/Diegojfsr/Exercicios_JavaScript_HoraDeCodar/blob/main/Exercicicos/JavaScript%20Avancado/Exemplo%231.js"> Fibonacci </a>
+    - <a href="https://github.com/Diegojfsr/Exercicios_JavaScript_HoraDeCodar/blob/main/Exercicicos/JavaScript%20Avancado/Exemplo%232.js"> Palavra mais Longa </a>
 
 
 <h2 dir="auto"> ⚠️ Especificação e requisitos</h2>
