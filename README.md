@@ -1,5 +1,4 @@
 
-
 ![](https://github.com/Diegojfsr/Exercicios_JavaScript_HoraDeCodar/blob/main/Imagens/hora_de_codar_cover.jpeg)
 
 # Esse é o meu repositório de Exercícios de JavaScript resolvidos.
