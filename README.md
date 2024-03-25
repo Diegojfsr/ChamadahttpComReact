@@ -6,16 +6,25 @@
 Curso de JavaScript Matheus Battisti - Hora de Codar.
 
 <h2 dir="auto"> 📝 Lista de Exercícios </h2>
-➡️ <a href="href="https://"> #1 - Variáveis e tipos de dados. </a> <br>
-➡️ <a href="href="https://"> #2 - Operadores. </a> <br>
-➡️ <a href="href="https://"> #3 - Condições. </a> <br>
-➡️ <a href="href="https://"> #4 - Loops. </a> <br>
-➡️ <a href="href="https://"> #5 - Funções. </a> <br>
-➡️ <a href="href="https://"> #6 - Arrays. </a> <br>
-➡️ <a href="href="https://"> #7 - Objetos. </a> <br>
-➡️ <a href="href="https://"> #8 - Eventos DOM. </a> <br>
-➡️ <a href="href="https://"> #9 - Manipulação de Strings. </a> <br>
-➡️ <a href="href="https://"> #10 - Promises e Fetch API. </a> <br>
+
+
+
+1. [Exercícios para Iniciantes](#iniciantes)
+    - <a href="https://"> Variáveis e tipos de dados </a> <br>
+    - <a href="https://"> Operadores </a>
+    - <a href="https://"> Condições </a>
+    - <a href="https://"> Loops </a>
+    - <a href="https://"> Funções </a>
+    - <a href="https://"> Arrays </a>
+    - <a href="https://"> Objetos </a>
+    - <a href="https://"> Eventos DOM </a>
+    - <a href="https://"> Manipulação de Strings </a>
+    - <a href="https://"> Promises e Fetch API </a>
+
+1. [Exercícios Avançados](#avancados)
+    - <a href="https://"> Fibonacci </a> <br>
+    - <a href="https://"> Palavra mais Longa </a>
+
 
 <h2 dir="auto"> ⚠️ Especificação e requisitos</h2>
  <li> Noções de JavaScript. </li>
@@ -28,7 +37,8 @@ Curso de JavaScript Matheus Battisti - Hora de Codar.
 
  <h2 dir="auto"> 📑 Referências </h2>
   <p dir="auto">
-  A ideias para os projetos vieram deste artigo:<a href="https://horadecodar.com.br/exercicios-de-logica-de-programacao-javascript/"> Acessar➡️ </a> <br>
+  A ideias para os projetos vieram deste artigo:<br>
+   <a href="https://horadecodar.com.br/exercicios-de-logica-de-programacao-javascript/"> Exercícios de lógica de programação iniciante Javascript </a> <br>
   </p>
 
 <h2 dir="auto"> 🤝 Contribuindo </h2>
