@@ -21,7 +21,7 @@ Curso de JavaScript Matheus Battisti - Hora de Codar.
     - <a href="https://"> Manipulação de Strings </a>
     - <a href="https://"> Promises e Fetch API </a>
 
-1. [Exercícios Avançados](#avancados)
+2. [Exercícios Avançados](#avancados)
     - <a href="https://"> Fibonacci </a> <br>
     - <a href="https://"> Palavra mais Longa </a>
 
