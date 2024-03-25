@@ -7,22 +7,22 @@ Curso de JavaScript Matheus Battisti - Hora de Codar.
 
 <h2 dir="auto"> 📝 Lista de Exercícios </h2>
 
+<!--1. [Exercícios para Iniciantes](#iniciantes)-->
+   1. Exercícios para Iniciantes
+        - <a href="https://"> Variáveis e tipos de dados </a>
+        - <a href="https://"> Operadores </a>
+        - <a href="https://"> Condições </a>
+        - <a href="https://"> Loops </a>
+        - <a href="https://"> Funções </a>
+        - <a href="https://"> Arrays </a>
+        - <a href="https://"> Objetos </a>
+        - <a href="https://"> Eventos DOM </a>
+        - <a href="https://"> Manipulação de Strings </a>
+        - <a href="https://"> Promises e Fetch API </a>
 
-
-1. [Exercícios para Iniciantes](#iniciantes)
-    - <a href="https://"> Variáveis e tipos de dados </a> <br>
-    - <a href="https://"> Operadores </a>
-    - <a href="https://"> Condições </a>
-    - <a href="https://"> Loops </a>
-    - <a href="https://"> Funções </a>
-    - <a href="https://"> Arrays </a>
-    - <a href="https://"> Objetos </a>
-    - <a href="https://"> Eventos DOM </a>
-    - <a href="https://"> Manipulação de Strings </a>
-    - <a href="https://"> Promises e Fetch API </a>
-
-2. [Exercícios Avançados](#avancados)
-    - <a href="https://"> Fibonacci </a> <br>
+<!--2. [Exercícios Avançados](#avancados)-->
+2. Exercícios Avançados
+    - <a href="https://"> Fibonacci </a>
     - <a href="https://"> Palavra mais Longa </a>
 
 
