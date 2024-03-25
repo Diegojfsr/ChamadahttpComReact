@@ -6,9 +6,16 @@
 Curso de JavaScript Matheus Battisti - Hora de Codar.
 
 <h2 dir="auto"> 📝 Lista de Exercícios </h2>
-☑️ #1 - Criar um trocador de cores. <a href="https://github.com/Diegojfsr/JavaScript_Projects_Beginners/tree/main/Projetos/TrocadorCores"> Acessar➡️ </a> <br>
-
-
+☑️ #1 - Variáveis e tipos de dados. <a href="https://"> Acessar➡️ </a> <br>
+☑️ #2 - Operadores. <a href="https://"> Acessar➡️ </a> <br>
+☑️ #3 - Condições. <a href="https://"> Acessar➡️ </a> <br>
+☑️ #4 - Loops. <a href="https://"> Acessar➡️ </a> <br>
+☑️ #5 - Funções. <a href="https://"> Acessar➡️ </a> <br>
+☑️ #6 - Arrays. <a href="https://"> Acessar➡️ </a> <br>
+☑️ #7 - Objetos. <a href="https://"> Acessar➡️ </a> <br>
+☑️ #8 - Eventos DOM. <a href="https://"> Acessar➡️ </a> <br>
+☑️ #9 - Manipulação de Strings. <a href="https://"> Acessar➡️ </a> <br>
+☑️ #10 - Promises e Fetch API. <a href="https://"> Acessar➡️ </a> <br>
 
 
 <h2 dir="auto"> ⚠️ Especificação e requisitos</h2>
