@@ -19,6 +19,7 @@ Curso de JavaScript Matheus Battisti - Hora de Codar.
         - <a href="https://github.com/Diegojfsr/Exercicios_JavaScript_HoraDeCodar/blob/main/Exercicicos/JavaScript%20Iniciante/Exemplo%239.js"> Manipulação de Strings </a>
         - <a href="https://github.com/Diegojfsr/Exercicios_JavaScript_HoraDeCodar/blob/main/Exercicicos/JavaScript%20Iniciante/Exemplo%2310.js"> Promises e Fetch API </a>
 
+
 <!--2. [Exercícios Avançados](#avancados)-->
 2. Exercícios Avançados
     - <a href="https://github.com/Diegojfsr/Exercicios_JavaScript_HoraDeCodar/blob/main/Exercicicos/JavaScript%20Avancado/Exemplo%231.js"> Fibonacci </a>
