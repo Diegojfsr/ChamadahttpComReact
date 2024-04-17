@@ -13,11 +13,16 @@ console.log(`Olá, meu nome é ${nome} e eu tenho ${idade} anos`);
 
 
 let nome2 = "Mateus";
-let idade = 22;
+let idade = 23;
 console.log(`Olá, meu nome é ${nome} e eu tenho ${idade} anos`);
 
 let nome2 = "Davi";
 let idade = 25;
+console.log(`Olá, meu nome é ${nome} e eu tenho ${idade} anos`);
+
+
+let nome2 = "Lara";
+let idade = 21;
 console.log(`Olá, meu nome é ${nome} e eu tenho ${idade} anos`);
 
 
