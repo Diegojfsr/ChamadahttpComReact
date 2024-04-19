@@ -15,4 +15,14 @@ if (userAge >= 18) {
 }
 
 
+let userAge2 = prompt("Quantos anos você tem?");
+userAge2 = Number(userAge2);
+if (userAge2 >= 18) {
+    console.log("Você é maior de idade.");
+} else {
+    console.log("Você é menor de idade.");
+}
+
+
+
 
